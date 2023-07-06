@@ -1,0 +1,10 @@
+.link {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* background-color: indianred; */
+    text-decoration: none;
+}
+
+.active {
+    color: tomato;
+}
